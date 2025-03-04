@@ -1,0 +1,47 @@
+<style>
+table {
+border-collapse:collapse !important; border: none !important;
+}
+
+body {
+background-image-resize:1;
+background-repeat: no-repeat;
+}
+
+.letrazul{
+  color: #3886d2;
+}
+
+.letragris{
+  color: #656565;
+}
+
+th {
+background: #E4E4E4;
+border:1px solid white;
+}
+.grayborder td{
+  padding: 2 !important;
+  border-bottom: 1px solid #E4E4E4;
+ }
+
+ .grayborderall{
+   padding: 2 !important;
+   border: 1px solid #E4E4E4;
+  }
+
+.number{
+  padding: 0 !important;
+  border: 1px solid black !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+}
+
+.cotizacionnumero{
+  padding: 0 !important;
+  position: relative !important; 
+  top: 300px !important; 
+  right: 400px !important;
+}
+
+</style>

@@ -1,0 +1,35 @@
+<style>
+
+
+table {
+	border-collapse: collapse !important;
+	width: 100% !important;
+}
+body {
+background-image-resize:1;
+background-repeat: no-repeat;
+font-size: 0.9em !important;
+}
+tbody td {
+ 
+  border-bottom: 1px solid gray !important;
+ }
+
+
+.item{
+	padding: 1 !important;
+	margin-right: 20px;
+
+}
+
+.equipo{
+	padding: 1 !important;
+	margin-left: 20px;
+
+}
+
+.tablacompleta {
+  padding: 1 !important;
+  border: 1px solid gray !important;
+}
+</style>

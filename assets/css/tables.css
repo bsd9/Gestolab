@@ -1,0 +1,32 @@
+<style>
+.highlight tbody tr:hover td {
+background: #bbdefb;
+}
+header, main, footer {
+padding-left: 240px;
+}
+body{
+   background-color: #C1C7F2;
+}
+table {
+border-collapse:collapse !important; border: none !important;
+}
+.highlight thead{
+background: #64b5f6;
+padding: 3px !important;
+}
+.highlight	td {
+  background-color: #FFFFFF;
+  padding: 2px !important;
+ }
+.highlight	th {
+  padding: 3px !important;
+  height: 20px !important;
+ }
+@media only screen and (max-width : 992px) {
+header, main, footer {
+ padding-left: 0;
+}
+}
+
+</style>

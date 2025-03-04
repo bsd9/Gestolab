@@ -1,0 +1,31 @@
+<style>
+nav {
+    height: 80px !important;
+    line-height: 80px !important;
+}
+
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    height: 80px !important;
+    line-height: 80px !important;
+}
+
+nav .button-collapse i {
+    height: 80px !important;
+    line-height: 80px !important;
+}
+
+nav .brand-logo {
+    font-size: 1.6rem;
+}
+
+@media only screen and (min-width: 601px){
+    nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+        height: 80px !important;
+        line-height: 80px !important;
+    }
+}
+
+body{
+  background-color: #e3f2fd !important
+}
+</style>
